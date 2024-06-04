@@ -1,5 +1,5 @@
 # Hi 👋, I'm Krishna
-An aspiring fullstack developer.
+An aspiring fullstack dev.
 
 
 ## 🌐 Connect with me:
