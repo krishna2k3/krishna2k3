@@ -15,6 +15,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna2k3&show_icons=true&locale=en&layout=compact" alt="krishna2k3" /></p>
 
+<h2>Stats</h2>h
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishna2k3&show_icons=true&locale=en" alt="krishna2k3" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna2k3&" alt="krishna2k3" /></p>
