@@ -16,6 +16,8 @@
 <h2>Stats</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna2k3&show_icons=true&locale=en&layout=compact" alt="krishna2k3" /></p>
 
+<br>
+
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=krishna2k3&show_icons=true&locale=en" alt="krishna2k3" /></p>
 
 <br>
